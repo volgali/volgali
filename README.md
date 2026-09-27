@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Atilla İnce
+
+Biomedical Engineer · PhD Student · Researcher
+
+Interested in biomedical engineering, medical informatics, artificial intelligence, data analysis and healthcare technologies.
+
+Currently based in Antalya, Türkiye.
+
+## Areas of interest
+
+- Biomedical Engineering
+- Medical Informatics
+- Artificial Intelligence
+- Data Analysis
+- Healthcare Technologies
+- Web & Software Projects
+
+## Links
+
+🌐 atillaince.com
